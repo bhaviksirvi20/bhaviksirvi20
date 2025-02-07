@@ -1,3 +1,5 @@
+![MasterHead]([https://www.digitalsolutionservices.com/img/services/web%20development.gif](https://media.licdn.com/dms/image/v2/D4D12AQEZtPCuttD_iQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1697453573297?e=2147483647&v=beta&t=C8ZqgMEYiC1QXlEpXf-8AarpVF48qhR7lAd0ZgrbQ7M))
+
 # 💫 About Me:
 👨‍💻 Frontend Developer<br>🖥️ HTML | CSS | C Language<br>🎨 Passionate about web design & clean, efficient code<br>🚀 Exploring new tech and constantly learning!<br>💡 Always open to new challenges & collaborations!
 
