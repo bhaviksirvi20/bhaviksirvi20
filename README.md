@@ -1,4 +1,17 @@
 ![MasterHead]([https://www.digitalsolutionservices.com/img/services/web%20development.gif](https://media.licdn.com/dms/image/v2/D4D12AQEZtPCuttD_iQ/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1697453573297?e=2147483647&v=beta&t=C8ZqgMEYiC1QXlEpXf-8AarpVF48qhR7lAd0ZgrbQ7M))
+<h1 align="center"  id="h1">
+    Hi
+    <a href="#h1" target="_blank" rel="noreferrer">
+        <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="42" />
+    </a>,
+    <span>I'm Bhavik Sirvi</span>
+    <a href="#h1" target="_blank" rel="noreferrer">
+        <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="36" />
+    </a>
+</h1>
+ <div align="center">
+  <img  src="https://readme-typing-svg.herokuapp.com/?lines=🎨+UI+Developer|;💻+Full+Stack+Learner|;🚀+Innovating+with+Code|;&color=teal&center=true"  />
+ </div>
 
 # 💫 About Me:
 👨‍💻 Frontend Developer<br>🖥️ HTML | CSS | C Language<br>🎨 Passionate about web design & clean, efficient code<br>🚀 Exploring new tech and constantly learning!<br>💡 Always open to new challenges & collaborations!
