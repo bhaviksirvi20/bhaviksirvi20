@@ -18,11 +18,8 @@
 
 
 ## 🌐 Socials:
-<p align="center">
-  <a href="https://bootstrap.dev">
-    <img src="https://bootstrap.dev/icons?i=git,kubernetes,docker,c,vim" />
-  </a>
-</p>
+
+[![instagram](https://img.shields.io/badge/instagram-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://insta.com/in/yourprofile)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourprofile)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bhavik)
