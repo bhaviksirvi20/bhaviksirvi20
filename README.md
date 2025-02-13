@@ -19,8 +19,8 @@
 
 ## 🌐 Socials:
 <p align="center">
-  <a href="https://bootstrap">
-    <img src="https://bootstrap/icons?i=git,kubernetes,docker,c,vim" />
+  <a href="https://bootstrap.dev">
+    <img src="https://bootstrap.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
