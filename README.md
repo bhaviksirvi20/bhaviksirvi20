@@ -10,38 +10,19 @@
     </a>
 </h1>
  <div align="center">
-  <img  src="https://readme-typing-svg.herokuapp.com/?lines=🎨+UI+Developer|;💻+Full+Stack+Learner|;🚀+Innovating+with+Code|;&color=teal&center=true"  />
+  <img  src="https://readme-typing-svg.herokuapp.com/?lines=💻+Full+Stack+Learner|;🚀+Innovating+with+Code|;&color=teal&center=true"  />
  </div>
 
 # 💫 About Me:
 👨‍💻 Frontend Developer<br>🖥️ HTML | CSS | C Language<br>🎨 Passionate about web design & clean, efficient code<br>🚀 Exploring new tech and constantly learning!<br>💡 Always open to new challenges & collaborations!
 
 
-## 🌐 Socials:
-
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github"/>
-</a>
+# 🌐 Socials:
+[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,twitter,github&perline=10)](https://skillicons.dev)
 
 
-# 💻 Tech Stack:
-<div align="center">
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" alt="CSS" title="CSS"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/bootstrap.png" alt="Bootstrap" title="Bootstrap"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/tailwind_css.png" alt="Tailwind CSS" title="Tailwind CSS"/></code>
-	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c++.png" alt="C++" title="C++"/></code>
-</div>
+# 🌐 Languages and 🛠️ Tools :
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,github,git,c,cpp,&perline=10)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bhavik&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
