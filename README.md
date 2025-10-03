@@ -28,12 +28,53 @@
 ---
 
 # 🌐 Connect with me:
-[![My Skills](https://skillicons.dev/icons?i=instagram,linkedin,twitter,github&perline=5)](https://skillicons.dev)
+<p align="center">
+  <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  <a href="https://github.com/bhaviksirvi20" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 ---
 
 # 🛠️ Languages & Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,github,git,c,cpp,react&perline=6)](https://skillicons.dev)
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=bootstrap" />
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://devdocs.io/c/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=c" />
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=cpp" />
+  </a>
+</p>
 
 ---
 
