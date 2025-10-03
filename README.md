@@ -29,11 +29,11 @@
 
 # 🌐 Connect with me:
 <p align="center">
+  <a href="https://www.linkedin.com/in/bhavik-sirvi-6b8831323/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
   <a href="https://instagram.com/YOUR_INSTAGRAM" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" />
